@@ -1,0 +1,46 @@
+0 : Participants inVenture / Alliance(Short Name)
+1 : Parti.CUSIP
+2 : ParticipantPrimarySIC Code
+3 : Parti-cipantSICCodes
+4 : AllianceDateAnnounced
+5 :   DateEffective
+6 : DateExtended
+7 : DateExpirationExpected
+8 : DateExpired
+9 : DateAllianceTerminated
+10 : DateSought
+11 : DateRenegotiated
+12 : LicensingAgreementFlag
+13 : ExclusiveLicensingAgreementFlag
+14 : ManufacturingAgreementFlag
+15 : Technology Transfer
+16 : ExplorationAgreementFlag
+17 :   CrossLicensingAgreement
+18 : StrategicAlliance
+19 : SupplyAgree-mentFlag
+20 : Researchand Dev-elopmentAgreementFlag
+21 : MarketingAgreementFlag
+22 : JointVentureFlag
+23 : OriginalEquipmentManuf./Value-AddedResellerFlag
+24 : CrossBorderAlliance
+25 : SameNationParticipantsandAlliance
+26 : FundingAgree-mentFlag
+27 : Parti-cipantStateCode
+28 : ParticipantUltimate Parent Name
+29 : ParticipantUltimateParentNation
+30 : ParticipantUltimateParentPrimarySIC Code
+31 : Alliance Deal Name
+32 : PrimarySIC CodeofAlliance
+33 : Nation ofAlliance
+34 : Nation ofAlliance
+35 : WorldRegion ofAlliance
+36 : ParticipantNation
+37 : City
+38 : ParticipantUltimateParentNation
+39 : Participant City
+40 : Business Description
+41 :    JVBusiness Short
+42 : Status
+43 : Deal Text
+44 : PercentOwnershipbyParticipant
+45 : Capitalization Text

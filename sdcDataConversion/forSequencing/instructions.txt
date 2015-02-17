@@ -1,0 +1,6 @@
+download from SDC in same order as in existing example data
+convert all dates in .xlsx to YYYY-MM-DD
+save as .csv
+remove the first row with db details and date
+firms file is ready to use.
+edges file needs to be SORTED for tempral cases
